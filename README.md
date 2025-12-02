@@ -31,6 +31,19 @@ My myntra
 - Automating CI/CD pipelines for microservice deployments  
 - Improving observability in Kubernetes clusters  
 - Reducing MTTR through better alerting & runbooks
+- Jenkins, Artifact & build management (Maven, Gradle, Nexus)  
+- Automated deployments with Helm, Terraform, and CloudFormation  
+- Git, branching strategies, and release management 
+
+### Monitoring & Reliability
+- CloudWatch | Prometheus | Grafana | Datadog  
+- SLO/SLI setup, alerting, dashboards  
+- Incident & problem management (P1/P2 support, RCA, postmortems)  
+- On-call experience with strong troubleshooting skills  
 
 ### Connect With Me  
 linkedin.com/in/Swethabarla | bswetha.2601@gmail.com
+
+Thank you for visiting my profile!
+I'm glad to see you
+---
