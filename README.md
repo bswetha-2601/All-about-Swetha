@@ -10,7 +10,9 @@ I help teams ship faster, scale smarter, Log better, and sleep better with autom
 My myntra
 ---
 > Customer first
+---
 > Learning is omnipresent
+---
 > Grow with the company
 
 ---
