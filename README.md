@@ -2,7 +2,7 @@
 My name is Swetha Barla,  
 ### DevOps | SRE | Cloud Engineer
 
-I'm a DevOps/SRE support engineer with hands-on experience in ITSM, CI/CD, AWS, Kubernetes, observability, monitoring, and automation. 
+I'm a DevOps/SRE support engineer with 8+ (5 years in ITSM and rest in DevOps/SRE support roles) hands-on experience in ITSM, CI/CD, AWS, Kubernetes, observability, monitoring, and automation. 
 
 I help teams ship faster, scale smarter, Log better, and sleep better with automation, CI/CD, and cloud-native tooling.
 
